@@ -1,0 +1,6 @@
+UP_ARROW="Up"
+LEFT_ARROW="Left"
+DOWN_ARROW="Down"
+RIGHT_ARROW="Right"
+SPACEBAR="space"
+
